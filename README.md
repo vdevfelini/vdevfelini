@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+- 🔭 I’m currently working on msn
+- 🌱 I’m currently learning js
+
+- 
 <!--
 **vdevfelini/vdevfelini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
